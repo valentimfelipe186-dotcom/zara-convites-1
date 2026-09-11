@@ -1,0 +1,13 @@
+{
+  "name": "zara-convites",
+  "version": "1.0.0",
+  "description": "Bot de controle de convites do Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "better-sqlite3": "^12.4.1"
+  }
+}
